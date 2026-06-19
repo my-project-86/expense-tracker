@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "637698498417",
+    "project_id": "squad-split-project",
+    "storage_bucket": "squad-split-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637698498417:android:bc08bb8e0252f088e7a0d0",
+        "android_client_info": {
+          "package_name": "com.squadsplit.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637698498417-o3rkfqkovo93ctjs4ps7mfbb6tfko8rm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb8EFJrC833Csip_UCqNhqRYUEX4luhm4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "637698498417-o3rkfqkovo93ctjs4ps7mfbb6tfko8rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

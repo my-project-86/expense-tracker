@@ -1,0 +1,58 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo
+.expo/
+.expo-shared/
+
+# Build output
+/dist/
+build/
+web-build/
+android/
+ios/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Firebase/Google services
+GoogleService-Info.plist
+
+# VSCode
+.vscode/
+
+# Metro
+metro-cache/
+
+# Misc
+*.log
+*.lock
+
+# IDEs
+.idea/
+*.iml
+
+# Coverage
+coverage/
+
+# Expo EAS
+*.tar.gz
+
+# React Native
+*.keystore
+
+# Test output
+*.test.js.snap
+
+# for notificaitons
+squad-split-project-563778afddb7.json

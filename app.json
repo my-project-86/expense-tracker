@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Squad Split",
+    "slug": "squad-split",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.squadsplit.ios"
+    },
+    "android": {
+      "package": "com.squadsplit.android",
+      "enableAndroidEdgeToEdge": true,
+      "icon": "./assets/icon.png",
+      "softwareKeyboardLayoutMode": "pan",
+      "googleServicesFile": "./google-services.json"
+    },
+    "scheme": "squadsplit",
+    "extra": {
+      "eas": {
+        "projectId": "f543ec9e-8609-4c01-8d43-4cdf31a68129"
+      }
+    },
+    "owner": "my-project-86",
+    "plugins": [
+      "expo-secure-store",
+      "expo-system-ui",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/icon.png"
+        }
+      ]
+    ]
+  }
+}

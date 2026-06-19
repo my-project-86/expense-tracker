@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "0ad21487-02e0-46b4-bf18-f23ecaef6ac5"
+      }
+    },
+    "android": {
+      "package": "com.myproject86.functions"
+    }
+  }
+}
